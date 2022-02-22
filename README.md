@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osheab
-- 👀 I’m interested in ... Front end Development.
+- 👀 I’m interested in ... Front end development.
 - 🌱 I’m currently learning ...React. 
 - 💞️ I’m looking to collaborate on ... work that would help in developing my learning and confidence around this.
 - 📫 How to reach me ... 
